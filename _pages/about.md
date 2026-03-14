@@ -29,8 +29,12 @@ announcements:
 
 Hi! I am XXX, a PhD student at the National University of Singapore working on AI security. 
 
-My research explores the **security implications of generative AI**, particularly how generative models interact with **copyright and creator rights**. I study the potential harm that generative models may cause to copyrighted content and analyze the security of existing protection mechanisms designed to safeguard creators, such as **watermarking**.
+🧐 My research focuses on understanding the security implications of generative AI systems, especially text-to-image models. While generative AI systems are rapidly transforming how digital content is created and distributed, their deployment also raises important questions about security, privacy, and the protection of creators’ rights.
 
-More broadly, ***I aim to understand the limitations of current defenses and develop more robust mechanisms that help make generative AI systems more responsible and trustworthy for creators***.
+One major direction of my work studies the impact of generative AI on copyright and digital ownership. I investigate how generative models may cause harm to copyrighted content and analyze the security of mechanisms designed to protect creators, such as watermarking, and content monitoring systems. In particular, I study how these protection mechanisms behave under adversarial settings and whether they remain reliable against manipulation or evasion. Ultimately, I aim to build certified robust approaches that can reliably protect creators’ work in the generative AI era.
+
+Beyond the impact on creators, I am interested in the broader societal and privacy implications of generative AI, including misuse and the potential exposure of sensitive information. As generative models become increasingly integrated into real-world systems, understanding these risks is essential for ensuring that AI technologies remain safe, reliable, and accountable.
+
+Looking ahead, my research aims to advance the security and trustworthiness of generative AI and contribute to building responsible systems that operate safely in complex real-world environments.
 
 📷 Outside of Research, I love photographing snow mountains and hope to one day document many of the world’s most iconic snowy peaks. 🏔️
