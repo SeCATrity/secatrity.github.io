@@ -440,15 +440,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-our-paper-wrath-turning-watermark-robustness-against-itself-via-a-watermark-agnostic-black-box-invalidation-attack-has-been-accepted-to-ieee-s-amp-amp-p-2026-cycle-2",
+            },},{id: "news-our-paper-wrath-turning-watermark-robustness-against-itself-via-a-watermark-agnostic-black-box-invalidation-attack-has-been-accepted-to-ieee-s-amp-amp-p-2026-cycle-2",
           title: '🎉 Our paper “WRATH: Turning Watermark Robustness Against Itself via a Watermark-Agnostic Black-Box...',
           description: "",
           section: "News",},{id: "projects-project-1",
