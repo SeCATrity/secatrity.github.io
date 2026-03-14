@@ -29,8 +29,8 @@ latest_posts:
 
 Hi! I am XXX, a PhD student at the National University of Singapore working on AI security. 
 
-My research explores the security implications of generative AI, particularly how generative models interact with copyright and creator rights. I study the potential harm that generative models may cause to copyrighted content and analyze the security of existing protection mechanisms designed to safeguard creators, such as watermarking.
+My research explores the **security implications of generative AI**, particularly how generative models interact with **copyright and creator rights**. I study the potential harm that generative models may cause to copyrighted content and analyze the security of existing protection mechanisms designed to safeguard creators, such as **watermarking**.
 
-More broadly, I aim to understand the limitations of current defenses and develop more robust mechanisms that help make generative AI systems more responsible and trustworthy for creators.
+More broadly, ***-I aim to understand the limitations of current defenses and develop more robust mechanisms that help make generative AI systems more responsible and trustworthy for creators-***.
 
-📷 Outside of Research, I enjoy photographing snow mountains and hope to one day document many of the world’s most iconic snowy peaks. 🏔️
+📷 Outside of Research, I love photographing snow mountains and hope to one day document many of the world’s most iconic snowy peaks. 🏔️
