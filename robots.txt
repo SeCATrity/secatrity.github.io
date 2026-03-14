@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://nanjiang.github.io/sitemap.xml
+Sitemap: https://secatrity.github.io/sitemap.xml
