@@ -3,13 +3,13 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Nan
+first_name: Void
 middle_name:
-last_name: Jiang
+last_name: Cat
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Hi! I am Nan Jiang, a PhD student at the National University of Singapore working on AI security. 
+  Hi! I am XXX, a PhD student at the National University of Singapore working on AI security. 
   My research focuses on understanding the security challenges introduced by generative AI. In particular, I study how generative models interact with copyright and creator rights. My work investigates the potential harm that generative models may cause to copyrighted content and analyzes the security of existing protection mechanisms designed to safeguard creators, such as watermarking.
   By studying the limitations of current defenses, I aim to design more robust mechanisms that help make generative AI systems more responsible and trustworthy for creators.
 
