@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile.jpg
   image_circular: false # crops the image to make it circular
   # more_info: >
   #   <p>555 your office number</p>
@@ -27,7 +27,7 @@ announcements:
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I am Jiang Nan, a PhD student at the National University of Singapore, working on AI security, co-advised by Prof. Terence Sim and Prof. Jun Han. 
+Hi! I am Nan Jiang, a PhD student at the National University of Singapore, working on AI security, co-advised by Prof. Terence Sim and Prof. Jun Han. 
 
 🧐 My research focuses on understanding the **security implications of generative AI models**, especially text-to-image models. While generative AI systems are rapidly transforming how digital content is created and distributed, their deployment also raises important questions about security, privacy, and the protection of creators’ rights.
 
